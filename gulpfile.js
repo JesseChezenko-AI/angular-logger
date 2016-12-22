@@ -5,6 +5,7 @@
     var gulp = require('gulp');
     var gulpUtil = require('gulp-util');
     var del = require('del');
+    //do notmerge
     var karma = require('gulp-karma');
     var coverageEnforcer = require('gulp-istanbul-enforcer');
     var jshint = require('gulp-jshint');
